@@ -52,7 +52,7 @@ Each release of this repository is archived on Zenodo, which provides a citable 
 
 If you use this script, please cite the archived version:
 
-> [Lassandro, M.] (2026). *particle_overlap* (Version 1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> [Lassandro, M.] (2026). *particle_overlap* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23456823
 
 and the associated paper (see above).
 
